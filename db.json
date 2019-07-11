@@ -2,8 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "time": '2019, 7, 11, 11,20,00'
+      "title": "hello"
     }
   ],
   "profile": {
